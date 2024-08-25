@@ -1,0 +1,11 @@
+{
+    "chatbot": {
+        "name": "SimpleBot",
+        "version": "1.0",
+        "responses": {
+            "greeting": "Hello! How can I help you today?",
+            "farewell": "Goodbye! Have a great day!",
+            "default": "I'm not sure how to respond to that."
+        }
+    }
+}
